@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouzaDosReis&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouzaDosReis&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 <!--
