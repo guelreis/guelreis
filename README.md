@@ -2,8 +2,8 @@
 ### Hi there 👋
 -->
 <div>
-   <img align="left" height="330px" height="30" width="600" alt="apresentação" src="https://user-images.githubusercontent.com/75230945/159159998-ecb3b86f-79b4-4d5e-a0e2-9ee1ac470e81.gif"/>
-  <img align="right" height="100px" alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouzaDosReis&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+   <img align="left" height="350px" width="600" alt="apresentação" src="https://user-images.githubusercontent.com/75230945/159159998-ecb3b86f-79b4-4d5e-a0e2-9ee1ac470e81.gif"/>
+  <img align="right" height="100px" width="300" alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouzaDosReis&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  
 <!--!
