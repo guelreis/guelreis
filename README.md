@@ -8,7 +8,7 @@
 
 
 
-  <p align="right" >
+  <p align="right" width="270" heigth="500" >
  Minhas Principais Stacks do Front-end são:
   
  - React
