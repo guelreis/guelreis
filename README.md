@@ -9,23 +9,42 @@
 <details close align="center">
  <summary> <strong> As Minhas Principais Stacks  </strong> </summary>
  <p> React
-   <a href="https://skillicons.dev">
-    <img width="20" src="https://skillicons.dev/icons?i=react" />
-  </a>
+      <img width="20" src="https://skillicons.dev/icons?i=react" />
 </p>
  
  
- <p> Redux </p>
- <p> Mysql Workbench </p>
- <p> CRUD </p>
- <p> Sequelize </p>
- <p> POO </p>
- <p> SOLID </p>
- <p> MongoDb </p>
- <p> JavaScript </p>
- <p> TyperScript </p>
- <p> Python </p>
- <p> Nodejs </p>
+ <p> Redux 
+      <img width="20" src="https://skillicons.dev/icons?i=redux" />
+ </p>
+ <p> Mysql Workbench
+      <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+ </p>
+ <p> Heruko
+      <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+ </p>
+ <p> Sequelize 
+      <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+ </p>
+ <p> Docker 
+      <img width="20" src="https://skillicons.dev/icons?i=docker"
+ 
+ </p>
+ <p> MongoDb 
+      <img width="20" src="https://skillicons.dev/icons?i=mongodb"
+ 
+ </p>
+ <p> JavaScript 
+      <img  width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />     
+ </p>
+ <p> TyperScript 
+      <img  width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ </p>
+ <p> Python 
+      <img width="20" src="https://skillicons.dev/icons?i=py"
+ </p>
+ <p> Nodejs 
+      <img width="20" src="https://skillicons.dev/icons?i=nodejs"
+ </p>
 </details close>
 
 <!--
