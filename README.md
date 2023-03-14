@@ -15,7 +15,7 @@
 </div>
 
 
--
+<div width="270" > </div>
 
 - Tenho 19 anos e sou de Salvador/BA
 - Sou programador formado pela __[Trybe](https://www.betrybe.com/)__
