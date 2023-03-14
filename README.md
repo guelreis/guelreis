@@ -11,7 +11,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
+<img align="right" width="270" src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
 </picture>
 
 
