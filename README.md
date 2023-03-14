@@ -5,12 +5,18 @@
 - Tenho 19 anos e sou de Salvador/BA 
 - Sou programador formado pela __[Trybe](https://www.betrybe.com/)__ 
 - Todos os meus projetos e atividades que eu fiz no curso esta no __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__ 
+<details open>
+ <summary> <strong> As Minhas Principais Stacks  </strong> </summary>
 
-
-
-  <p align="right" width="270" heigth="500" >
- Minhas Principais Stacks do Front-end são:
-  
- - React
-<p/>
-
+ <li> React </>
+ <li> Redux </>
+ <li>  Mysql Workbench </>
+ <li> CRUD </>
+ <li> Sequelize </>
+ <li> POO </>
+ <li> SOLID </>
+ <li> MongoDb </>
+ <li> JavaScript </>
+ <li> TyperScript </>
+            <li> Python </>
+</details open>
