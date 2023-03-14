@@ -1,16 +1,16 @@
- <img align="right" width="270" alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouzaDosReis&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+ <img align="right" width="270" alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouzaDosReis&layout=compact&langs_count=7&theme=dracula"/>
 <img width="550" alt="apresentação" src="https://user-images.githubusercontent.com/75230945/159159998-ecb3b86f-79b4-4d5e-a0e2-9ee1ac470e81.gif"/>
 <picture>
  
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true&theme=vision-friendly-dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img width="350" align="right" src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
+<img width="300" align="right" src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
 </picture>
 
 
