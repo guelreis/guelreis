@@ -12,7 +12,7 @@
    </p>
   
    
- <img align="right" width="270" alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouzaDosReis&layout=compact&langs_count=7&theme=vision-friendly-dark"/> 
+ <img align="right" width="119" alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouzaDosReis&layout=compact&langs_count=7&theme=vision-friendly-dark"/> 
    
 </div>
 
