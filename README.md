@@ -2,11 +2,10 @@
 ### Hi there 👋
 -->
 <div>
-   <img align="left" width="500" alt="apresentação" src="https://user-images.githubusercontent.com/75230945/159159998-ecb3b86f-79b4-4d5e-a0e2-9ee1ac470e81.gif"/>
-   
-   <p align="right">
-      <li> Tenho 19 anos e sou de Salvador/BA  </li>
-   </p>
+   <img align="left" width="540" alt="apresentação" src="https://user-images.githubusercontent.com/75230945/159159998-ecb3b86f-79b4-4d5e-a0e2-9ee1ac470e81.gif"/>
+ 
+   <li align="right" > Tenho 19 anos e sou de Salvador/BA  </li>
+
    <p align="center">
       - Sou programador Full Stack formado pela Trybe
    </p>
