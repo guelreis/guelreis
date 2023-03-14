@@ -11,8 +11,27 @@
   srcset="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="right" width="200" src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
 </picture>
+
+
+
+<!--
+
+vision-friendly-dark
+ <p> React </p>
+ <p> Redux </p>
+ <p> Mysql Workbench </p>
+ <p> CRUD </p>
+ <p> Sequelize </p>
+ <p> POO </p>
+ <p> SOLID </p>
+ <p> MongoDb </p>
+ <p> JavaScript </p>
+ <p> TyperScript </p>
+ <p> Python </p>
+ <p> Nodejs </p>
+
 
 
 - Tenho 19 anos e sou de Salvador/BA
@@ -59,19 +78,4 @@
  </p>
 </details close>
 
-<!--
-
-vision-friendly-dark
- <p> React </p>
- <p> Redux </p>
- <p> Mysql Workbench </p>
- <p> CRUD </p>
- <p> Sequelize </p>
- <p> POO </p>
- <p> SOLID </p>
- <p> MongoDb </p>
- <p> JavaScript </p>
- <p> TyperScript </p>
- <p> Python </p>
- <p> Nodejs </p>
 -->
