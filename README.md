@@ -37,10 +37,6 @@
  <p> Sequelize 
       <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
  </p>
- <p> Docker 
-      <img width="20" src="https://skillicons.dev/icons?i=docker"
- 
- </p>
  <p> MongoDb 
       <img width="20" src="https://skillicons.dev/icons?i=mongodb"
  
