@@ -15,7 +15,7 @@
 </div>
 
 
-- Tenho 19 anos e sou de Salvador/BA
+- Meu inglês é Intermediário - escrevo códigos e busco a resolução de problemas em inglês
 - Sou programador formado pela __[Trybe](https://www.betrybe.com/)__
 - Todos os meus projetos e atividades que eu fiz no curso esta no __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__
 <details close align="center">
