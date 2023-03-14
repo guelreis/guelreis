@@ -14,9 +14,10 @@
 </picture>
 </div>
 
- <p> 
+
+- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 - Tenho 19 anos e sou de Salvador/BA
- </p>
 - Sou programador formado pela __[Trybe](https://www.betrybe.com/)__
 - Todos os meus projetos e atividades que eu fiz no curso esta no __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__
 <details close align="center">
