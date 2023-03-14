@@ -6,7 +6,9 @@
    
    <p align="center">
          - Tenho 19 anos e sou de Salvador/BA
+         - Sou programador Full Stack formado pela [Trybe](https://www.betrybe.com/)
    </p>
+
    
  <img align="right" width="270" alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouzaDosReis&layout=compact&langs_count=7&theme=vision-friendly-dark"/> 
    
