@@ -10,12 +10,10 @@
   srcset="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="right" width="300"  src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
+<img align="right" width="278"  src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
 </picture>
 </div>
 
-
-<div width="270" > </div>
 
 - Tenho 19 anos e sou de Salvador/BA
 - Sou programador formado pela __[Trybe](https://www.betrybe.com/)__
