@@ -10,7 +10,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img width="250" align="right" src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
+<img width="100" align="right" src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
 </picture>
 
 
