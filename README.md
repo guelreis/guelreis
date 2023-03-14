@@ -4,7 +4,7 @@
 <div>
    <img align="left" width="500" alt="apresentação" src="https://user-images.githubusercontent.com/75230945/159159998-ecb3b86f-79b4-4d5e-a0e2-9ee1ac470e81.gif"/>
    
-   <li align="center" > Tenho 19 anos e sou de Salvador/BA  </li>
+   <li align="left" > Tenho 19 anos e sou de Salvador/BA  </li>
    <li align="right" >  Sou programador Full Stack formado pela Trybe  </li>
 
    
