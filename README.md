@@ -3,14 +3,14 @@
 <picture>
  
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true&theme=dracula"
+  srcset="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true&theme=vision-friendly-dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
+<img width="350" align="right" src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
 </picture>
 
 
@@ -59,6 +59,8 @@
 </details close>
 
 <!--
+
+vision-friendly-dark
  <p> React </p>
  <p> Redux </p>
  <p> Mysql Workbench </p>
