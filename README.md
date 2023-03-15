@@ -12,7 +12,7 @@
 />
 <img align="left" width="275" height="200"  src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
 </picture>
-   <a  align="left" href="https://www.linkedin.com/in/miguel-souza-dos-reis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+   <a  href="https://www.linkedin.com/in/miguel-souza-dos-reis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 
