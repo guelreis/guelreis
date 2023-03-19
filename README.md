@@ -17,7 +17,8 @@
 
 - Tenho 19 anos e sou de Salvador/BA
 - Sou programador formado pela __[Trybe](https://www.betrybe.com/)__
-- Todos os meus projetos e atividades que eu fiz no curso esta no __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__
+- Todos os meus projetos e atividades que eu fiz no curso esta no __[](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__
+- Os meus principais projetos são __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__, __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__, __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__, __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__, __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__, __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__ , __[Recipes-App](https://project-recipes-app.pages.dev/)__ (coloque um email e senha aleatoria para ver o site de receitas de comidas e bebidas para ver mais sobre o projeto entra no) __[Recipes-App-Repositorio](https://github.com/MiguelSouzaDosReis/Project-Recipes-App)__ , 
 
 <details open align="center">
  <summary> <strong> As Minhas Principais Stacks  </strong> </summary>
@@ -55,14 +56,6 @@
       <img width="20" src="https://skillicons.dev/icons?i=nodejs"
  </p>
 </details open>
-
-
-<details open align="center">
- <summary> <strong> Os Meus Principais Projetos  </strong> </summary>
- __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__
-</details open>
-
-
 <!--
 
 vision-friendly-dark
