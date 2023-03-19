@@ -20,7 +20,7 @@
 - Todos os meus projetos e atividades que eu fiz no curso esta no __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__
 <details open align="left">
  <summary> <strong> As Minhas Principais Stacks  </strong> </summary>
- <p> React
+ <p width="276" > React
       <img width="20" src="https://skillicons.dev/icons?i=react" />
 </p>
  
