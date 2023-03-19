@@ -18,7 +18,8 @@
 - Tenho 19 anos e sou de Salvador/BA
 - Sou programador formado pela __[Trybe](https://www.betrybe.com/)__
 - Todos os meus projetos e atividades que eu fiz no curso esta no __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__
-<details open align="right">
+
+<details open align="center">
  <summary> <strong> As Minhas Principais Stacks  </strong> </summary>
  <p> React
       <img width="20" src="https://skillicons.dev/icons?i=react" />
@@ -53,6 +54,12 @@
  <p> Nodejs 
       <img width="20" src="https://skillicons.dev/icons?i=nodejs"
  </p>
+</details open>
+
+
+<details open align="center">
+ <summary> <strong> Os Meus Principais Projetos  </strong> </summary>
+ __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__
 </details open>
 
 
