@@ -19,9 +19,6 @@
 - Sou programador formado pela __[Trybe](https://www.betrybe.com/)__
 - Todos os meus projetos e atividades que fiz no curso está no __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__
 
-
-- Os meus principais projetos são __[Lessons-Learned](https://project-lessons-learned.pages.dev/)__(foi o meu primeiro projeto ao entra na Trybe caso queira ver o repositório)  __[Lessons-Learned-Repositório](https://github.com/MiguelSouzaDosReis/Project-Lessons-Learned)__, __[Pixels-Art](https://project-pixels-art.pages.dev/)__ ( foi o projeto tal tal)
-
 <details open align="center">
  <summary> <strong> As Minhas Principais Stacks  </strong> </summary>
  <p> React
@@ -73,6 +70,8 @@ vision-friendly-dark
  <p> TyperScript </p>
  <p> Python </p>
  <p> Nodejs </p>
+
+- Os meus principais projetos são __[Lessons-Learned](https://project-lessons-learned.pages.dev/)__, __[Pixels-Art](https://project-pixels-art.pages.dev/)__,  __[Todo-List](https://project-todo-list-4wl.pages.dev/)__,  __[Trybewarts](https://project-trybewarts.pages.dev/)__,  __[Lessons-Learned](https://project-lessons-learned.pages.dev/)__,  __[Lessons-Learned](https://project-lessons-learned.pages.dev/)__,  __[Lessons-Learned](https://project-lessons-learned.pages.dev/)__,  __[Lessons-Learned](https://project-lessons-learned.pages.dev/)__, __[Lessons-Learned](https://project-lessons-learned.pages.dev/)__
 
 
   <picture >
