@@ -18,9 +18,9 @@
 - Tenho 19 anos e sou de Salvador/BA
 - Sou programador formado pela __[Trybe](https://www.betrybe.com/)__
 - Todos os meus projetos e atividades que eu fiz no curso esta no __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__
-<details open align="left">
+<details open align="center">
  <summary> <strong> As Minhas Principais Stacks  </strong> </summary>
- <p width="276" > React
+ <p> React
       <img width="20" src="https://skillicons.dev/icons?i=react" />
 </p>
  
