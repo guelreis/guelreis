@@ -18,6 +18,7 @@
 - Tenho 19 anos e sou de Salvador/BA
 - Sou programador formado pela __[Trybe](https://www.betrybe.com/)__
 - Todos os meus projetos e atividades que fiz no curso está no __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__
+- __[email](guelsouzar@gmail.com)__
 
 <details open align="center">
  <summary> <strong> As Minhas Principais Stacks  </strong> </summary>
