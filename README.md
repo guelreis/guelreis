@@ -18,6 +18,9 @@
 - Tenho 19 anos e sou de Salvador/BA
 - Sou programador formado pela __[Trybe](https://www.betrybe.com/)__
 - Todos os meus projetos e atividades que fiz no curso está no __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__
+-  Os projetos fixados são __[Lessons Learned](https://github.com/MiguelSouzaDosReis/Project-Lessons-Learned)__
+-  Lessons Learned: O meu primeiro projeto da Trybe é o projeto que me ensinou o básico do HTML e do CSS, o projeto que me faz rever os meus primeiros passos e sobre o que eu queria aprender no mundo da programação. Esse projeto fala um pouco mais sobre mim, no começo da Trybe.
+
 
 <details open align="center">
  <summary> <strong> As Minhas Principais Stacks  </strong> </summary>
