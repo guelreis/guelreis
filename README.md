@@ -1,8 +1,6 @@
 <div >
  <img align="right" width="275" alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouzaDosReis&layout=compact&langs_count=7&theme=dracula"/>
 <img align="left"  width="550" alt="apresentação" src="https://user-images.githubusercontent.com/75230945/159159998-ecb3b86f-79b4-4d5e-a0e2-9ee1ac470e81.gif"/>
- <img align="left"  width="550" alt="apresentação" src="https://github.com/MiguelSouzaDosReis/MiguelSouzaDosReis/assets/75230945/2e279a4c-0447-4b50-9e6c-6c486e530ed4"/>
-
 <picture >
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true&theme=dracula"
