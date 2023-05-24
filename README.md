@@ -1,7 +1,6 @@
 <div>
  <img align="left"  width="550" alt="apresentação" src="https://user-images.githubusercontent.com/75230945/159159998-ecb3b86f-79b4-4d5e-a0e2-9ee1ac470e81.gif"/>
- <img align="right" width="275" alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouzaDosReis&layout=compact&langs_count=7&theme=dracula"/>
-<picture >
+ <picture >
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
@@ -12,6 +11,7 @@
 />
  <img align="left" width="276" height="200"  src="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true" />
  </picture>
+ <img align="right" width="275" alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouzaDosReis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
