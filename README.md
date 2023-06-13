@@ -3,7 +3,7 @@
  <img align="right" width="275" alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guelreis&layout=compact&langs_count=7&theme=dracula"/>
   <picture >
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=MiguelSouzaDosReis&show_icons=true&theme=dracula"
+  srcset="https://github-readme-stats.vercel.app/api?username=guelreis&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
