@@ -15,9 +15,10 @@
 </div>
 
 
-- Tenho 20 anos e sou de Salvador/BA
+- Tenho 21 anos e sou de Salvador/BA
 - Sou programador formado pela __[Trybe](https://www.betrybe.com/)__
 - Todos os meus projetos e atividades que fiz no curso está no __[Trybe-Exercise](https://github.com/MiguelSouzaDosReis/Trybe-Exercise)__
+- Faço Ads na __[Unifacs](https://www.unifacs.br/?utm_source=search&utm_medium=cpc&utm_campaign=UNIFACS%7CGRAD%7CTODOS%7CINSTITUCIONAL-252%7C02%7C05%7C01%7C02%7C&utm_term=cpc&utm_content=unificada&gad_source=1&gclid=Cj0KCQjw2N2_BhCAARIsAK4pEkUPCemCQ88ItKeFi9B0Lw0Gta-Gp18ZN8ZCZCfA_Z7KZJvHRtA4wFUaAooaEALw_wcB&gclsrc=aw.ds)__
 
 
 <details open align="center">
@@ -54,6 +55,9 @@
  </p>
  <p> Nodejs 
       <img width="20" src="https://skillicons.dev/icons?i=nodejs"
+ </p>
+   <p> Java 
+      <img width="20" src="https://skillicons.dev/icons?i=java"
  </p>
 </details open>
 <!--
